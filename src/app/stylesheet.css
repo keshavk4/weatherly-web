@@ -1,0 +1,21 @@
+body {
+    background-image: url("./assets/background.jpg");
+    background-size: cover;
+}
+
+.background-image-style {
+    position: fixed;
+    bottom: 0;
+    right: 0;
+}
+
+.center-div-tag {
+    display: flex;
+    width: max-content;
+    margin: 2% auto 0 auto;
+}
+
+.center-div-tag div {
+    margin-left: 10px;
+    margin-right: 10px;
+}
